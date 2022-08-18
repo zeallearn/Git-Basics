@@ -1,3 +1,3 @@
-print("feature branch  - balance is 500")
+print("feature branch  - balance is 200")
 print("main branch - balance is 1000")
 
