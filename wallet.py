@@ -1,0 +1,1 @@
+print("balance is 500")
