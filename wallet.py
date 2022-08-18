@@ -1,1 +1,1 @@
-print("balance is 500")
+print("balance is 1000")
